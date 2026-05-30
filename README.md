@@ -1,7 +1,6 @@
 # The Robot & the Crystals - Dynamic Programming Project
 
 **Author:** Basil Barakat  
-**ID:** 12217132
 
 ## Introduction
 The "Robot and Energy Crystals" problem is a classic algorithmic optimization challenge. The goal is to guide a robot through a tunnel containing a series of energy stations. Each station contains energy crystals that either increase (positive) or decrease (negative) the robot's energy. The objective is to maximize the total collected energy without exceeding the tunnel boundaries.
