@@ -27,14 +27,12 @@
 // }
 //
 // int main() {
-//     // Optimize standard I/O operations for performance
 //     ios_base::sync_with_stdio(false);
 //     cin.tie(NULL);
 //
 //     // Read input directly into the global variables
 //     if (cin >> N) {
 //
-//         // CRITICAL FIX: Allocate memory for the vector based on N
 //         A.resize(N);
 //
 //         // Populate the vector
